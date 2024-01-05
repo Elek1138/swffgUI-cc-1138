@@ -44,7 +44,7 @@ May the the Interface be with you !
 
 ### Manual Method
 * Open the Foundry application and click **"Install Module"** in the **"Add-On Modules"** tab.
-* Paste the following link: https://raw.githubusercontent.com/prolice/swffgUI-cc/swffgUI-cc/module.json
+* Paste the following link: https://raw.githubusercontent.com//Elek1138/swffgUI-cc-1138/swffgUI-cc-1138/module.json
 * Click "Install" 
 * Activate the module in your World using **Manage Modules** under the **Game Settings** tab and find Star Wars - User Interface Creative Commo.
 
