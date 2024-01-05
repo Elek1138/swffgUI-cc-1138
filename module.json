@@ -1,5 +1,5 @@
 {
-  "title": "Star Wars - User Interface Creative Common",
+  "title": "Star Wars - User Interface Creative Common 1138",
   "description": "Starwars unofficial design-2.5.0",
   "version": "2.5.0",
   "authors": [
@@ -38,11 +38,11 @@
   "changelog": "https://github.com/prolice/swffgUI-cc/blob/swffgUI-cc/changelog.md",
   "manifest": "https://github.com/prolice/swffgUI-cc/raw/swffgUI-cc/module.json",
   "download": "https://github.com/prolice/swffgUI-cc/releases/download/v2.5.0/module.zip",
-  "id": "swffgUI-cc",
+  "id": "swffgUI-cc-1138",
   "relationships": {
     "systems": [
       {
-        "id": "starwarsffg",
+        "id": "od6s",
         "type": "system",
         "compatibility": {}
       }
